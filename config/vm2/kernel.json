@@ -1,0 +1,5 @@
+{
+    "kernel_image_path": "./images/hello-vmlinux.bin",
+    "boot_args": "console=ttyS0 reboot=k panic=1 pci=off"
+  }
+  

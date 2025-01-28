@@ -1,0 +1,6 @@
+{
+    "iface_id": "eth0",
+    "host_dev_name": "tap0",
+    "static_ip": "192.168.100.2"
+  }
+  
