@@ -1,3 +1,7 @@
-module github.com/shuvo-14/firecracker-vm-setup
+module github.com/shuvo-14/firecracker-bridge-network
 
-go 1.23.4
+go 1.16
+
+require (
+    // other dependencies
+)

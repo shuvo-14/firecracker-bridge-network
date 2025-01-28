@@ -24,7 +24,6 @@
 3. Once the VMs are started, you can log in and ping between them.
 
     ```sh
-    # Example commands to log into the VMs and ping between them
     ssh -i path/to/ssh/key root@vm1_ip
     ping vm2_ip
     ```
